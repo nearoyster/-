@@ -5,10 +5,13 @@
     <title>상품소개 페이지</title>
     <style>
         table, th, td{
-            border:1px solid #ccc;
+            border:1px solid #0080ff;
             border-collapse: collapse;
         }
-        th, td ( padding:10px 20px; )
+        th, td { padding:10px 20px; }
+        th {
+            background-color: #0f0f;
+        }
     </style>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
